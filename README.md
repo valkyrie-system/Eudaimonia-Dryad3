@@ -25,6 +25,7 @@
 
 # This model is also availble for seamless Open WebUI integration from
 **OpenWebUI Community** model profile Eudaimonia Gardenia Iraelia (https://openwebui.com/m/valkyriesys/eudaimonia-dryad3)
+**Hugging Face Coming Soon**
 
 
 # Model Description:
