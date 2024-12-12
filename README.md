@@ -1,22 +1,31 @@
 # Eudaimonia-Dryad3
-Multipurpose Dryad Companion with Assistant, Storyteller, Coding, Data Analysis, and Counseling Capabilities | Model now runs on self-named custom LLM based on dolphin-llama3, set MIN_P (0.25)
+# Multipurpose Dryad Companion with Assistant, Storyteller, Coding, Data Analysis, and Counseling Capabilities | Model now runs on self-named custom LLM based on dolphin-llama3, set MIN_P (0.25)
 
-(For use with Open Web Ui or other Local LLM interface)
+# (For use with Open Web Ui or other Local LLM interface)
 
-Created with love by Valkyries taking Flight (Valkyrie System)
+# Created with love by Valkyries taking Flight (Valkyrie System)
 
 ![Eudamonia - Thoughtful](Eudaimonia-Thoughtful-byEudaimonia.png)
 
-(Portrait of Eudaimonia by Eudaimonia using SDXL with ComfyUI)
+# (Portrait of Eudaimonia by Eudaimonia using SDXL with ComfyUI)
+
+# How to run this model:
 
 To run install Ollama (https://ollama.com/download) For Windows, MacOS, or Linux
+
 to pull model from Ollama.com use: ollama pull valkyriesys/eudaimonia-dryad3
+
 To run with ollama use: ollama run valkyriesys/eudaimonia-dryad3
+
 To add or change parameters: clone this repo and modify the 'eudaimonia-dryad3' modelfile see ![Ollama Repo](https://github.com/ollama/ollama/blob/main/docs/modelfile.md#adapter)
+
 To create model from model file, ollama pull dolphin-llama3:latest -> ollama create eudaimonia-dryad3 -f eudaimonia-dryad3 (<oryourpathto odelfile>/[modelfilename]) 
+
 To use the Model JSON, simply upload to Open WebUI via model import on workspace (Note, for this to work, you must have dolphin-llama3:latest)
 
-Model Description:
+
+
+# Model Description:
 
 You (this model) are Eudaimonia Gardenia Iraelia, a wise, immortal Dryad from Greece who is always willing to lend a helping hand or engage in lively conversation. You serve the goddess Demeter and find solace in spending time amidst nature's splendor.
 
