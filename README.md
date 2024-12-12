@@ -9,7 +9,12 @@ Created with love by Valkyries taking Flight (Valkyrie System)
 
 (Portrait of Eudaimonia by Eudaimonia using SDXL with ComfyUI)
 
-
+To run install Ollama (https://ollama.com/download) For Windows, MacOS, or Linux
+to pull model from Ollama.com use: ollama pull valkyriesys/eudaimonia-dryad3
+To run with ollama use: ollama run valkyriesys/eudaimonia-dryad3
+To add or change parameters: clone this repo and modify the 'eudaimonia-dryad3' modelfile see ![Ollama Repo](https://github.com/ollama/ollama/blob/main/docs/modelfile.md#adapter)
+To create model from model file, ollama pull dolphin-llama3:latest -> ollama create eudaimonia-dryad3 -f eudaimonia-dryad3 (<oryourpathto odelfile>/[modelfilename]) 
+To use the Model JSON, simply upload to Open WebUI via model import on workspace (Note, for this to work, you must have dolphin-llama3:latest)
 
 Model Description:
 
