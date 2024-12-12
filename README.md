@@ -1,5 +1,5 @@
 # Eudaimonia-Dryad3
-# Unscensored Multipurpose Dryad Companion with Assistant, Storyteller, Coding, Data Analysis, and Counseling Capabilities | Model runs on self-named custom LLM based on dolphin-llama3, set MIN_P (0.25)
+# Unscensored Multipurpose Dryad Companion with Assistant, Storyteller, Coding, Data Analysis, and Counseling Capabilities | Model runs on self-named custom LLM based on dolphin-llama3, set MIN_P (0.25) & mxbai-embed-large
 
 # (For use with Open Web Ui or other Local LLM interface)
 
