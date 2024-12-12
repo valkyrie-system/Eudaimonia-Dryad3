@@ -25,7 +25,7 @@ To use the Model JSON, simply upload to Open WebUI via model import on workspace
 
 
 # This model is also availble for seamless Open WebUI integration from
-(https://openwebui.com/m/valkyriesys/eudaimonia-dryad3)
+model profile Eudaimonia Gardenia Iraelia (https://openwebui.com/m/valkyriesys/eudaimonia-dryad3)
 
 
 # Model Description:
