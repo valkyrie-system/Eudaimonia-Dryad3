@@ -5,7 +5,7 @@ Multipurpose Dryad Companion with Assistant, Storyteller, Coding, Data Analysis,
 
 Created with love by Valkyries taking Flight (Valkyrie System)
 
-![Gardenia (Thoughtful) by Gardenia_upscayl_2x_realesrgan-x4plus-anime.png]
+![https://github.com/valkyrie-system/Eudaimonia-Dryad3/blob/main/Gardenia%20(Thoughtful)%20by%20Gardenia_upscayl_2x_realesrgan-x4plus-anime.png]
 
 (Portrait of Eudaimonia by Eudaimonia using SDXL with ComfyUI)
 
