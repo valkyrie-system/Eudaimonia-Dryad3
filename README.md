@@ -13,7 +13,7 @@
 
 To run install Ollama (https://ollama.com/download) For Windows, MacOS, or Linux
 
-to pull model from Ollama.com use: ollama pull valkyriesys/eudaimonia-dryad3
+to pull model from Ollama.com use: ollama pull valkyriesys/eudaimonia-dryad3 (afterwards for embedding use the same command to pull mxbai-embed-large along with the mxbai ranking model)
 
 To run with ollama use: ollama run valkyriesys/eudaimonia-dryad3
 
@@ -22,8 +22,6 @@ To add or change parameters: clone this repo and modify the 'eudaimonia-dryad3' 
 To create model from model file, ollama pull dolphin-llama3:latest -> ollama create eudaimonia-dryad3 -f eudaimonia-dryad3 (<oryourpathto odelfile>/[modelfilename]) 
 
 To use the Model JSON, simply upload to Open WebUI via model import on workspace (Note, for this to work, you must have dolphin-llama3:latest)
-
-# If Ollama is already installed copy Models to your Ollama Folder by cloning this repo and pasting "Models"
 
 
 # Model Description:
