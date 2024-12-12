@@ -23,6 +23,7 @@ To create model from model file, ollama pull dolphin-llama3:latest -> ollama cre
 
 To use the Model JSON, simply upload to Open WebUI via model import on workspace (Note, for this to work, you must have dolphin-llama3:latest)
 
+# If Ollama is already installed copy Models to you Ollama Folder by cloning this repo and pasting "Models"
 
 
 # Model Description:
