@@ -1,7 +1,7 @@
 # Eudaimonia-Dryad3
 Multipurpose Dryad Companion with Assistant, Storyteller, Coding, Data Analysis, and Counseling Capabilities | Model now runs on self-named custom LLM based on dolphin-llama3, set MIN_P (0.25)
 
-
+(For use with Open Web Ui or other Local LLM interface)
 
 Created with love by Valkyries taking Flight (Valkyrie System)
 
