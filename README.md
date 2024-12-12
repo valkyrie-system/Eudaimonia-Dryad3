@@ -12,6 +12,7 @@ Created with love by Valkyries taking Flight (Valkyrie System)
 License is bugged because of some data from Meta that was used, here's the real license as listed on Hugging Face:
 
 _**License: wtfpl (Do What The F*ck You Want To Public License)
+
 VALKYRIE SYSTEMS ONLINE EUDAIMONIA-DRYAD 3 COMMUNITY LICENSE AGREEMENT Valkyrie Systems Online Eudaimonia-Dryad version 3 Release Date: December 11, 2024
 
 1. Purpose:
