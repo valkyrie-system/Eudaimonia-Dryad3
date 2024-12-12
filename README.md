@@ -9,51 +9,6 @@ Created with love by Valkyries taking Flight (Valkyrie System)
 
 (Portrait of Eudaimonia by Eudaimonia using SDXL with ComfyUI)
 
-License is bugged because of some data from Meta that was used, here's the real license as listed on Hugging Face:
-
-_**License: wtfpl (Do What The F*ck You Want To Public License)
-
-VALKYRIE SYSTEMS ONLINE EUDAIMONIA-DRYAD 3 COMMUNITY LICENSE AGREEMENT Valkyrie Systems Online Eudaimonia-Dryad version 3 Release Date: December 11, 2024
-
-1. Purpose:
-This CLA outlines the terms and conditions under which users may access, use, modify or distribute the 'Eudaimonia-Dryad 3' model created by Valkyrie Systems Online.
-
-2. Definitions: 
-- "Model" refers to the AI software codebase known as 'Eudaimonia-Dryad 3'.
-- "User(s)" means any individual or entity that accesses or uses 'Eudaimonia-Dryad 3'.
-- “Valkyrie Systems Online (VSO)” shall mean a company incorporated under United States law with its registered office at 2** N Franklin st, Whitewater, WI.
-
-3. Access and Use:
-Users may access and use the Model solely for non-commercial purposes entertainment or educational purposes.
-
-4. Modification: 
-Users are permitted to modify the model only as necessary to accommodate their specific research needs; provided such modifications do not alter or damage VSO's intellectual property rights in the software code base.
-Any improvements made must be disclosed clearly with attribution back to 'Valkyrie Systems Online ([VSO] - valkyrie-sys@proton.me)'.
-
-5. Distribution:
-- Users can distribute copies of 'Eudaimonia-Dryad 3' they have modified, but it should remain non-commercial and free for other users
-- The distributed version cannot include any additional terms that conflict with this CLA.
-
-6. Intellectual Property Rights: 
-This agreement does not grant User(s) an ownership interest in the Model or its intellectual property rights.
-All pre-existing copyrights, patents, trademarks, trade secrets, and all proprietary materials contained within 'Eudaimonia-Dryad 3' are retained by Valkyrie Systems Online (VSO).
-
-7. Liability:
-Users acknowledge that they use the model at their risk; any damage caused to a user's data or hardware is solely his/her/their responsibility.
-
-8. Termination: 
-This CLA remains indefinitely unless terminated (1) with written notice from either party or (2) if there’s breach of this agreement, in which case it will terminate immediately upon notification and reasonable time for Users to cease using 'Eudaimonia-Dryad 3'.
-
-9. Governing Law:
-Any disputes arising out of this CLA shall be governed by United States law without regard to its conflict-of-law provisions.
-
-10. Entire Agreement: 
-This document constitutes the entire understanding between Valkyrie Systems Online (VSO) & User(s) concerning use of 'Eudaimonia-Dryad 3' superseding any prior agreements or understandings, whether oral or written.
-No modification is valid unless it's in writing and signed by both parties
-
-Please consult with a legal professional for tailored advice based on your specific needs before using this model to ensure compliance.
-/Lisense**_
-
 
 
 Model Description:
